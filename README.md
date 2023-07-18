@@ -1,14 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Usha Akter</h1>	<h1 align="center">Hi 👋, I'm Usha Akter</h1>
-<h3 align="center">I'M computer science engreeing</h3>	<h3 align="center">A I'M interested me SQA</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBCexBf1XtM_k8-vTzvVWCGsrtjGWXfnIQQ&usqp=CAU">	<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBCexBf1XtM_k8-vTzvVWCGsrtjGWXfnIQQ&usqp=CAU">
-
-
-
-
-<p align="left"> <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" /> </p>	<p align="left"> <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="rishavchanda" /> </p>
-
-
+<h1 align="center">Hi 👋, I'm Usha Akter</h1>	
+<h3 align="center">I'M computer science engreeing</h3>	
+<h3 align="center">A I'M interested me SQA</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBCexBf1XtM_k8-vTzvVWCGsrtjGWXfnIQQ&usqp=CAU">	<img align="right" alt="Coding" width="400" >
+<p align="left"> <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" /> </p>	
 <p align="left"> <a href="https://twitter.com/usha akter" target="blank"><img src="https://img.shields.io/twitter/follow/usha akter?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>	<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/usha akter?logo=twitter&style=for-the-badge" alt="usha akter" /></a> </p>
 
 
