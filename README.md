@@ -1,4 +1,5 @@
-
+<img align="right" alt="Coding" width="400" src="![Uploading IMG_1044.JPG…]()
+">	<img align="right" alt="Coding" width="400" >
 <h1 align="center">Hi 👋, I'm Usha Akter</h1>	
 <h3 align="center">I'M computer science engreeing</h3>
 <h3 align="center"> I'M bubt students</h3>
@@ -23,9 +24,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅Css<br>
 
 ## Co-Curricular Activities:
-✅ Participated in blood donate campaign.
-✅ Par time Event management&
-✅Tree Plantation.
+✅ Participated in blood donate campaign<br>.
+✅ Par time Event management&<br>.
+✅Tree Plantation<br>.
 ## Hobbies and Interests:
 👜Travelling: I have travelled across different districts of Bangladesh and am a voluntary contributor to a
 registered travel agency.
