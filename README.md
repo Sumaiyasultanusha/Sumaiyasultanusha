@@ -22,7 +22,12 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅html<br>
 ✅Css<br>
 
-
-
-
-
+## Co-Curricular Activities:
+✅ Participated in blood donate campaign.
+✅ Par time Event management&
+✅Tree Plantation.
+## Hobbies and Interests:
+👜Travelling: I have travelled across different districts of Bangladesh and am a voluntary contributor to a
+registered travel agency.
+## Reading Nobel:
+📖html,css,c program
