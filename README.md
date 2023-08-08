@@ -1,8 +1,8 @@
 <img align="right" alt="Coding" width="400" src="![Uploading IMG_1044.JPG…]()
-">	<img align="right" alt="Coding" width="400" >
-<h1 align="center">Hi 👋, I'm Usha Akter</h1>	
-<h3 align="center">I'M computer science engreeing</h3>
+"><img align="right" alt="Coding" width="400" >
+<h1 align="center">Hi 👋, I'm Usha Akter</h1>
 <h3 align="center"> I'M bubt students</h3>
+<h3 align="center">I'M computer science engreeing ungraduate student</h3>
 <h3 align="center">A I'M interested me SQA</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBCexBf1XtM_k8-vTzvVWCGsrtjGWXfnIQQ&usqp=CAU">	<img align="right" alt="Coding" width="400" >
 <p align="left"> <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" /> </p>	
