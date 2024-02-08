@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Usha Akter</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h1 align="center">Welcome 👋, my  to profile </h1>
 <h3 align="center"> I'M bubt students</h3>
 <h3 align="center">I'M computer science engreeing ungraduate student</h3>
